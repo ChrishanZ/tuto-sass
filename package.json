@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "sass": "^1.69.5"
+  },
+  "name": "blog-preview-card",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {
+    "gulp-sass": "^5.1.0",
+    "gulp-watch": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
